@@ -3,7 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/Dengan Git Config/Telegram-Duplicate/TelegramDuplicate/app/src/main/res/layout/activity_main.xml" value="0.22735507246376813" />
+        <entry key="..\:/Studi Independent/Android Studio/Telegram-Duplicate/app/src/main/res/drawable/ic_baseline_add_card_24.xml" value="0.125" />
+        <entry key="..\:/Studi Independent/Android Studio/Telegram-Duplicate/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Studi Independent/Android Studio/Telegram-Duplicate/app/src/main/res/layout/activity_telegram_drawer.xml" value="0.2" />
+        <entry key="..\:/Studi Independent/Android Studio/Telegram-Duplicate/app/src/main/res/layout/app_bar_telegram_drawer.xml" value="0.2" />
+        <entry key="..\:/Studi Independent/Android Studio/Telegram-Duplicate/app/src/main/res/layout/content_telegram_drawer.xml" value="0.2" />
+        <entry key="..\:/Studi Independent/Android Studio/Telegram-Duplicate/app/src/main/res/layout/fragment_channel.xml" value="0.2" />
+        <entry key="..\:/Studi Independent/Android Studio/Telegram-Duplicate/app/src/main/res/layout/fragment_chat.xml" value="0.2" />
+        <entry key="..\:/Studi Independent/Android Studio/Telegram-Duplicate/app/src/main/res/layout/fragment_group.xml" value="0.2" />
+        <entry key="..\:/Studi Independent/Android Studio/Telegram-Duplicate/app/src/main/res/layout/nav_header_telegram_drawer.xml" value="0.2" />
+        <entry key="..\:/Studi Independent/Android Studio/Telegram-Duplicate/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
+        <entry key="..\:/Studi Independent/Android Studio/Telegram-Duplicate/app/src/main/res/menu/telegram_drawer.xml" value="0.2" />
       </map>
     </option>
   </component>
